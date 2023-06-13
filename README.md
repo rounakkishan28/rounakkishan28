@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rounakkishan28
+- 👋 Hi, I’m Rounak Kishan
 - 👀 I’m interested in competitive programming and machine learning.
 - 🌱 I’m currently learning competitive programming and machine learning.
 - 💞️ I’m looking to collaborate on problem solving.
