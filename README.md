@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rounak Kishan
-- 👀 I’m interested in competitive programming and machine learning.
-- 🌱 I’m currently learning competitive programming and machine learning.
+- 👀 I’m interested in competitive programming and web development.
+- 🌱 I’m currently learning competitive programming and web development.
 - 💞️ I’m looking to collaborate on problem solving.
 - 📫 Contact me on linkedin https://www.linkedin.com/in/rounak-kishan-931394257/
 
